@@ -30,8 +30,8 @@
 	     <a href="https://yukeiny-martinez1212.github.io/Programaci-nWeb/Practica 7.php" title= "Letras que te llevan a Practica 7"> Practica No.7 PHP </a>   <br>
 	     <a href="https://yukeiny-martinez1212.github.io/Programaci-nWeb/PRACTICA8.php" title= "Letras que te llevan a Practica 8"> Practica No.8 PHP </a>   <br>
 	     <a href="https://yukeiny-martinez1212.github.io/Programaci-nWeb/PRACTICA9.php" title= "Letras que te llevan a Practica 9"> Practica No.9 PHP </a>   <br>
-	   <a href="https://yukeiny-martinez1212.github.io/Programaci-nWeb/PRACTICA10.php" title= "Letras que te llevan a Practica 9"> Practica No.10 PHP </a>   <br>
-	   <a href="https://yukeiny-martinez1212.github.io/Programaci-nWeb/PRACTICA11.php" title= "Letras que te llevan a Practica 9"> Practica No.11 PHP </a>   <br>
+	   <a href="https://yukeiny-martinez1212.github.io/Programaci-nWeb/PRACTICA10.php" title= "Letras que te llevan a Practica 10"> Practica No.10 PHP </a>   <br>
+	   <a href="https://yukeiny-martinez1212.github.io/Programaci-nWeb/PRACTICA11.php" title= "Letras que te llevan a Practica 11"> Practica No.11 PHP </a>   <br>
 	
   </body>
   </html>
